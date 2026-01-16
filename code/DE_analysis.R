@@ -169,6 +169,6 @@ give_me_pretty_top_gsea <- function(top_gsea, analysis=".",context="."){
 
 p <- give_me_pretty_top_gsea (top_gsea, analysis = "Enriched Pathways in CAF-S5 Vs. CAF-S1", context = "in Late NSCLC")
 
-png("result/topGSEA.png", res=300, width = 300*6, height = 300*6)
+png("result/topGSEA.png", res=300, width = 300*8, height = 300*6)
 p
 dev.off()
