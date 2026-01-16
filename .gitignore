@@ -1,0 +1,7 @@
+data/
+result/
+.Rproj.user/
+.Rhistory
+.vscode/settings.json
+code/integrated_seurat.rds
+CAF_subtypes.Rproj
